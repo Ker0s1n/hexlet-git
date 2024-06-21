@@ -1,2 +1,2 @@
 say-hello: # show on screen text
-	echo 'Hello World!'
+	python -c print('Hello World!')
